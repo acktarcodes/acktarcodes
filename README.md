@@ -26,21 +26,16 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: MAURITIUS GMT+4
+⌚︎ Time Zone: Mauritius GMT+4
 
 💬 Programming Languages: 
-- Javascript
-- Typescript
-- PHP
-- HTML
-- CSS
+No Activity Tracked This Week
 
 🔥 Editors: 
-- Visual Studio Code
+No Activity Tracked This Week
 
 💻 Operating System: 
-- Windows 10 PRO
-- Ubuntu 20 LTS
+No Activity Tracked This Week
 
 ```
 
@@ -49,4 +44,4 @@
 <!--END_SECTION:waka-->
 ***
 
-**🛠 &nbsp;Tech Stack**
+**🛠 &nbsp;Dont fall in love at a young age. Being single is the best gift you could ever get**
