@@ -1,18 +1,31 @@
-# Hi there, I'm Acktar 👋
+# 👋 ACKTAR | Fullstack Developer and Network Engineer.
 
-- 🖥️ I'm making learning Network Engineering from the School of Information and Technology of Mauritius
-- 🇮🇩  I'm live in a small peaceful island called Mauritius
-- 🌱 I’m currently working on [ServerKUR - Free Game Hosting](https://serverkur.net)
+<br/>
 
-## Need a Developer OR looking for collaborator?
+### My Ongoing Projects
+- [PteroControl](https://github.com/acktarcodes) - A bot designed to make administrating servers running on [Pterodactyl](https://pterodactyl.io) more convenient by allowing users to quickly run certain tasks directly from Discord.
+- [PteroStats-V2](https://github.com/acktarcodes) - A bot designed to regularly check the [Pterodactyl](https://pterodactyl.io) API for information, which is then posted to Discord in order to give an overview on your current system status and activity.
+- [Dashactyl-DiscordUTILS](https://github.com/acktarcodes) - A bot designed to do some useful stuffs that your lazy management team cannot.
 
-- 💬 Discord: Acktar#6724
-- 💬 Email: acktar@serverkur.net
-- 💬 Discord Server: https://discord.gg/s7fhJ4Kv4S
+<br/>
 
-## Active Project
+### Social Links and Contact
+- [Join my Discord!](https://discord.gg/McFr2jwNSE)
+- [Follow my Instagram!](https://www.instagram.com/acktar.pubgm/)
+- [Email us!](mailto:acktar@serverkur.net)
 
-- **ServerKUR - Free Game Hosting**
+<br/>
 
-## Github Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=acktarcodes&show_icons=true&theme=algolia)
+## Want to collaborate with me on a project?
+### Head over to my [Discord Server](https://discord.gg/McFr2jwNSE) and send me a direct message. 🚀
+
+<br/>
+
+### My Best Friends
+- <strong>Xmomoo</strong> | Xmomoo#6969
+- <strong>Evelynn</strong> | .
+- <strong>Princex</strong> | -princex#2004
+- <strong>Hirzi</strong> | Hirzi#8701
+- <strong>tlkh40</strong> | tlkh40#6083
+
+<br/>
