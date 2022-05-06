@@ -1,31 +1,52 @@
-# 👋 ACKTAR | Fullstack Developer and Network Engineer.
 
-<br/>
+<p align="center"> <h1 align="center"> Hi, I am Acktar <img src="./assets/hi.gif" width="28px" alt="waving hand" /> </h1></p>
+<p align="center">
+<a href="https://discord.gg/McFr2jwNSE"><img src="https://img.shields.io/discord/971081978541658122?color=%239F2B68&label=Discord&style=for-the-badge"/> </a>
+<a href="https://www.instagram.com/acktar.pubgm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="mailto:acktar@serverkur.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p>
 
-### My Ongoing Projects
-- [PteroControl](https://github.com/acktarcodes) - A bot designed to make administrating servers running on [Pterodactyl](https://pterodactyl.io) more convenient by allowing users to quickly run certain tasks directly from Discord.
-- [PteroStats-V2](https://github.com/acktarcodes) - A bot designed to regularly check the [Pterodactyl](https://pterodactyl.io) API for information, which is then posted to Discord in order to give an overview on your current system status and activity.
-- [Dashactyl-DiscordUTILS](https://github.com/acktarcodes) - A bot designed to do some useful stuffs that your lazy management team cannot.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=acktarcodes&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22AcktarCodes" /> </p>
 
-<br/>
+* I am a final year Network Engineering student at [MITD, MAURITIUS](https://www.mitd.mu/).
+* I am a Fullstack Developer. I have made a number of web applications with NodeJS as well as PHP with frontend in HTML,CSS,JS.
+* I am looking to contribute to the OpenSource Initiative.
 
-### Social Links and Contact
-- [Join my Discord!](https://discord.gg/McFr2jwNSE)
-- [Follow my Instagram!](https://www.instagram.com/acktar.pubgm/)
-- [Email us!](mailto:acktar@serverkur.net)
+***
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=acktarcodes&show_icons=true&theme=dark&locale=en&hide_border=true" alt="ACKTARCODES" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acktarcodes&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
 
-<br/>
+<!-- *** -->
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-## Want to collaborate with me on a project?
-### Head over to my [Discord Server](https://discord.gg/McFr2jwNSE) and send me a direct message. 🚀
+```text
+⌚︎ Time Zone: MAURITIUS GMT+4
 
-<br/>
+💬 Programming Languages: 
+- Javascript
+- Typescript
+- PHP
+- HTML
+- CSS
 
-### My Best Friends
-- <strong>Xmomoo</strong> | Xmomoo#6969
-- <strong>Evelynn</strong> | .
-- <strong>Princex</strong> | -princex#2004
-- <strong>Hirzi</strong> | Hirzi#8701
-- <strong>tlkh40</strong> | tlkh40#6083
+🔥 Editors: 
+- Visual Studio Code
 
-<br/>
+💻 Operating System: 
+- Windows 10 PRO
+- Ubuntu 20 LTS
+
+```
+
+
+ Last Updated on 05/05/2022 18:49:47 UTC
+<!--END_SECTION:waka-->
+***
+
+**🛠 &nbsp;Tech Stack**
