@@ -1,16 +1,16 @@
 
 <p align="center"> <h1 align="center"> Hi, I am Acktar <img src="./assets/hi.gif" width="28px" alt="waving hand" /> </h1></p>
 <p align="center">
-<a href="https://discord.gg/McFr2jwNSE"><img src="https://img.shields.io/discord/971081978541658122?color=%239F2B68&label=Discord&style=for-the-badge"/> </a>
+<a href="https://discord.gg/McFr2jwNSE"><img src="https://img.shields.io/discord/971081978541658122?label=Discord&style=for-the-badge"/> </a>
 <a href="https://www.instagram.com/acktar.pubgm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="mailto:acktar@serverkur.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=acktarcodes&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22AcktarCodes" /> </p>
 
-* I am a final year Network Engineering student at [MITD, MAURITIUS](https://www.mitd.mu/).
-* I am a Fullstack Developer. I have made a number of web applications with NodeJS as well as PHP with frontend in HTML,CSS,JS.
-* I am looking to contribute to the OpenSource Initiative.
+* I am a Network Engineering student at [MITD, MAURITIUS](https://www.mitd.mu/).
+* I am a Fullstack Developer having experience in Javascript, PHP, HTML, CSS and Java.
+* I am looking to contribute to the opensource initiative.
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
